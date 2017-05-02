@@ -2,5 +2,3 @@
 
 # to see your current prompt, type: echo $PS1
 PS1='\[\e[1m\]\W\$ \[\e[0m\]'
-
-alias ssh_gene="ssh -oHostKeyAlgorithms=+ssh-dss paczuskp@bee.roche.com"
